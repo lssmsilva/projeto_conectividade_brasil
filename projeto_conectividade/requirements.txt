@@ -1,7 +1,8 @@
-
-streamlit
 pandas
 numpy
-plotly
+matplotlib
 seaborn
+plotly
 statsmodels
+ipywidgets
+pillow
